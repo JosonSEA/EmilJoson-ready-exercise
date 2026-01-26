@@ -65,6 +65,8 @@ _Provide enough background on your topic that others can understand the why and 
 ## Description of data and data source
 _Describe what the data is, what it contains, where it is from, etc. Eventually this might be part of a methods section._
 
+Two columns of data were added: hotdogs (the number of hotdogs the individuals can consume in one sitting) and shirt (their shirt sizes). 
+
 ## Questions/Hypotheses to be addressed
 _State the research questions you plan to answer with this analysis._
 
